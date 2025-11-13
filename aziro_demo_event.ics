@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aziro AI Demo//EN
+BEGIN:VEVENT
+UID:aziro-ai-demo-20251120@example.com
+DTSTAMP:20251113T070000Z
+DTSTART;TZID=Asia/Kolkata:20251120T190000
+DTEND;TZID=Asia/Kolkata:20251120T200000
+SUMMARY:Aziro AI Demo Session
+DESCRIPTION:Join our AI product demo on Google Meet.\n\nGoogle Meet link: https://meet.google.com/ber-wvvm-xnx\nOr dial: (US) +1 347-941-2533 PIN: 942 843 611#\nMore phone numbers: https://tel.meet/ber-wvvm-xnx?pin=8597368078258
+LOCATION:https://meet.google.com/ber-wvvm-xnx
+END:VEVENT
+END:VCALENDAR
